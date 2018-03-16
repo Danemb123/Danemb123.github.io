@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom Post
+title: General Interests
 categories: misc
 ---
 
