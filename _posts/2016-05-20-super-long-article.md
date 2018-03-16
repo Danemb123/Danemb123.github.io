@@ -1,11 +1,16 @@
 ---
 layout: post
-title: Poop Doctor was taken so we chose a different username
+title: Custom Post
 categories: misc
 ---
 
-Simply put, I am dust in the wind. I have no place in the existence of time but my existence is also infinite. How the world came to be is as relevant as it is not and therefore bla bla bla, that's how we created time travel and how I'm from the future. Alright next question.
+Hello reader:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+I would first like to share some interests of mine!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+
+First, there is my interest in music. It is my strongest passion to date. I've been involved in music in one form or another since age five. My interest in piano slowly turned into interest in keyboards and synths used it in rock music. I slowly drew away from rock and metal and slowly worked my way into house music. I remember fiddling around with my friend's KORG and recording loops on an ealier version of GarageBand.
+
+Second, there is my interest in computers. My first experience with computers was with gaming on an old computer on a DOS operating system. I remember playing Terminal Velocity for way too many hours. In school, I was introduced to word processors, powerpoint, and Excel like many other people. I had been so used to desktops that when laptops became more popular, I didin't understand how to transition. It was 2016 and I was still blown away that less than a quarter of my classmates owned a desktop. But still, I took upon myself to build my own system after years of dreaming it. Now, more than ever, I'm intetested in computer science. I'm interested in how I can use it to improve my life personally, academically, and occupationally.
+
+
