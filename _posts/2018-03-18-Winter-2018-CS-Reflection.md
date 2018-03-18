@@ -1,6 +1,6 @@
-Creating the Foundation for Efficiency
+#Creating the Foundation for Efficiency
 
-Reflection Questions:
+##Reflection Questions:
 
 1.	When you first signed up for this class, what goals did you have for this class? What did you hope to learn or get out of it?
 	
