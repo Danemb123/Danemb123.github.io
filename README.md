@@ -1,3 +1,4 @@
-# Final Project for CS105
-
-## Winter 2018
+---
+layout: page
+title: Something else
+---
