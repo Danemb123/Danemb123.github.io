@@ -9,4 +9,4 @@ This term was an incredible learning experience. Learning a programming language
 [Python III details](https://repl.it/@Danemb123/Python-III)
 
 
-![Python III Image Sample](PY3image.jpg)
+![Python III Image Sample](PY3image.JPG)
